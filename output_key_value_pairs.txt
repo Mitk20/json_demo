@@ -1,0 +1,814 @@
+Port Code
+BE No
+BE Date
+BE Type
+INBOM4
+3433168
+11/05/2024
+H
+स्वच्छ
+भारत
+IEC/Br
+0388084383/10
+FIRST COPY
+एक कदम स्वच्छता की ओर
+GSTIN/TYPE
+27AAACG1994N1Z4/G
+INDIAN
+CUSTOMS
+CB CODE
+AAMFP7906QCH001
+TYPE
+INV
+ITEM
+CONT
+PORT: AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+Nos
+1
+1
+0
+BILL OF ENTRY FOR HOME CONSUMPTION
+PKG
+3
+G.WT (KGS)
+376.8
+BE0110520241209
+PART - I - BILL OF ENTRY SUMMARY
+1.BE STATUS
+2.MODE
+3.DEF BE
+4.KACHA
+5.SEC 48
+6.REIMP
+7.ADV BE
+8.ASSESS
+9.EXAM
+10.HSS
+11.FIRST
+12. PROV/
+(Y/N/P)
+CHECK
+FINAL
+FIRST COPY
+Air
+T
+N
+N
+N
+Y
+N
+N
+N
+N
+F
+A.
+13.COUNTRY OF ORIGIN
+GERMANY
+14.COUNTRY OF CONSIGNMENT
+GERMANY
+15.PORT OF LOADING
+FRANKFURT/MAIN INT'L
+16.PORT OF SHIPMENT
+FRANKFURT/MAIN INT'L
+STATUS
+1.IMPORTER NAME & ADDRESS
+GABRIEL INDIA LIMITED
+2.CB NAME
+PROFICIENT CARGO SERVICES INDIA LLP
+29,MILE STONE, VILLAGE KURULI,
+NASHIK HIGHWAY, TAL KHED
+3.AEO
+PUNE
+B.
+410501
+4.UCR
+AD CODE
+0510008
+DECLARANT
+1.BCD
+2.ACD
+3.SWS
+4.NCCD
+5.ADD
+6.CVD
+7.IGST
+8.G.CESS
+18.TOT.ASS VAL
+54482.2
+0
+5448.2
+0
+0
+118481
+0
+363214
+9.SG
+10.SAED
+11.GSIA
+12.TTA
+13.HEALTH
+14.TOTAL DUTY
+15.INT
+16.PNLTY
+17.FINE
+19.TOT. AMOUNT
+178411
+0
+0
+0
+178411
+C. DUTY
+SUMMARY
+1.IGM NO
+2.IGM DATE
+3.INW DATE
+4.GIGMNO
+5.GIGMDT
+6.MAWB NO
+7.DATE
+8.HAWB NO
+9.DATE
+10.PKG
+11.GW
+0
+0
+02099018511
+10/05/2024
+3
+376.8
+DETAILS
+D.MANIFEST
+1.BOND NO.
+2.PORT
+3.BOND CD
+4.DEBT AMT
+5.BG AMT
+1.SR NO
+2.CHALLAN NO
+3.PAID ON
+4.AMOUNT(Rs.)
+1
+2049071096
+178411
+DETAILS
+F. PAYMENT
+SEL
+E. BOND DETAILS
+1.WBE NO.
+2.DATE
+3.WBE SITE
+4.WH CODE
+1.S.NO
+2.INVOICE NO
+3.INV. AMT
+4.CUR
+1
+509434
+1968
+EUR
+G.
+WH
+1.EVENT
+2.DATE
+3.TIME
+EXCHANGE RATE
+Submission
+11-MAY-24
+12: 07
+1 EUR=91INR
+Assessment
+11-MAY-24
+12: 09
+INR=INR
+Examination
+OOC
+-
+DETAILS
+H. PROCESSING
+1.SNO
+2.LCL/
+3.TRUCK
+4.SEAL
+5.CONTAINER NUMBER
+FCL
+INVOICE DETAILS - SUMMARY#
+J.
+OOC NO.
+OOC DATE
+Signature Not Verified
+CONTAINER DETAILS *
+Digitally signed by DS DIRECTORATE GENERAL
+OF SYSTEMS AND DATA MANAGEMENT 01
+Date: 2024.05.11 12:14:36 IST
+Reason: CUSTOMS
+Location: INDIA :unselected:
+GLOSSARY
+A: DEF - Deferred Payment, REIMP - Reimport, ADV - Advance, P - Prior, HSS - HighSeaSale; B : CB - Customs Broker, AEO - Authorized
+Economic Operator, UCR - Unique Customs Reference; D: GIGM - Gateway IGM; G : WBE - WareHouse BE; I : OOC - Out of Charge, # Refer Par
+IV for full list of Invoices J: * Refer Part IV for full list of Containers;
+Page
+1 Of 6
+Verify using ICETRAK Mobile App (Google Play Store) for authentication & latest version details from ICEGATE Enquiry: selected: :selected: :selected:
+Port Code
+BE No
+BE Date
+BE Type
+INBOM4
+3433168
+11/05/2024
+H
+स्वच्छ
+भारत
+IEC/Br
+0388084383/10
+FIRST COPY
+एक कदम स्वच्छता की ओर
+GSTIN/TYPE
+27AAACG1994N1Z4/G
+INDIAN
+CUSTOMS
+CB CODE
+AAMFP7906QCH001
+TYPE
+INV
+ITEM
+CONT
+PORT: AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+Nos
+1
+1
+0
+BILL OF ENTRY FOR HOME CONSUMPTION
+PKG
+3
+G.WT (KGS)
+376.8
+BE0110520241209
+PART - II - INVOICE & VALUATION DETAILS (Invoice
+1/1
+)
+1.S.NO
+2.INVOICE NO. & DT.
+3.PURCHASE ORDER NO & DT
+4.LC NO & DATE
+5.CONTRACT NO & DATE
+1
+509434
+A.
+02-MAY-24
+INVOICE
+1.BUYER'S NAME & ADDRESS
+2.SELLER'S NAME & ADDRESS
+GABRIEL INDIA LIMITED
+29,MILE STONE, VILLAGE KURULI,
+NASHIK HIGHWAY, TAL KHED
+PUNE
+410501
+3.SUPPLIER NAME & ADDRESS
+4. THIRD PARTY NAME & ADDRESS
+B.
+WEBRIT PLASTICS TECHNOLOGIES GMBH
+ANGENAUER STRABE 17D-57641 OBERLAH
+R
+GERMANY
+5.AEO
+6. AD CODE
+0510008
+TRANSACTING PARTIES
+1.INV VALUE
+2.FREIGHT
+3.INSURANCE
+4.HSS.
+5.LOADING
+6.COMMN
+7.PAY TERMS
+8.VALUATION METHOD
+1968
+35817
+.079%
+OTH
+RULE 4 - TRANSACTION VALUE
+C.
+14.Cur
+EUR
+INR
+9.RELTD
+10.SVB CH
+11.SVB NO
+12.DATE
+13LOA
+15.Term
+FOB
+No
+VALUATION
+1.C&B
+2.CoC
+3.CoP
+4.HND CHG
+5.G&S
+6.DOC. CH
+7.COO
+8.R & LF
+9.OTH COST
+10.LD / ULD
+11.WS
+12.OTC
+13.MISC CHARGE
+14.ASS. VALUE
+148050.98
+363214.42
+SERVICES
+D. COST &
+1.S NO.
+2.CTH
+3.DESCRIPTION
+4.UNIT PRICE
+5.QUANTITY
+6.UQC
+7.AMOUNT
+1
+87089900
+SAFETY CAP (SCHUTZKAPPE)
+.049200
+40000.000000
+PCS
+1968.00
+1Q0.512.135 A (SHOCK ABSORBER
+COMPONENTS)
+E
+ITEM DETAILS
+ASSES
+GLOSSARY
+A: LC - Letter of Credit; B : AD - Authorized Dealer; C : HSS - High Sea Sale; D : C&B Commission & Brokerage, CoC - Cost of Container, CoP - Co
+of Packing, HND CHG - Handling Charges, G&S - Goods and Service input cost, DOC CH - Document Charges, CoO - Country of Origin Certificate,
+R&LF - Royalty and Licence Fees, LD/ULD - Loading Unloading Charges, WS - Warranty Services, OTC - Other Costs, CTH - Customs Tariff Head,
+UQC - Unit Quantity Code
+Page
+2 Of 6
+Verify using ICETRAK Mobile App (Google Play Store) for authentication & latest version details from ICEGATE Enquiry
+Port Code
+BE No
+BE Date
+BE Type
+INBOM4
+3433168
+11/05/2024
+H
+स्वच्छ
+भारत
+IEC/Br
+0388084383/10
+FIRST COPY
+एक कदम स्वच्छता की ओर
+GSTIN/TYPE
+27AAACG1994N1Z4/G
+INDIAN
+CUSTOMS
+CB CODE
+AAMFP7906QCH001
+TYPE
+INV
+ITEM
+CONT
+PORT: AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+Nos
+1
+1
+0
+BILL OF ENTRY FOR HOME CONSUMPTION
+PKG
+3
+G.WT (KGS)
+376.8
+BE0110520241209
+PART - III - DUTIES
+1.INVSNO
+2.ITEMSN
+3.CTH
+4.CETH
+5.ITEM DESCRIPTION
+6.FS
+7.PQ
+8.DC
+9.WC
+10.AQ
+1
+1
+87089900
+NOEXCISE
+SAFETY CAP (SCHUTZKAPPE) 1Q0.512.135 A (SHOCK
+N
+N
+N
+N
+N
+ABSORBER COMPONENTS)
+11.UPI
+12.COO
+13.C.QTY
+14.C.UQC
+15.S.QTY
+16.S.UQC
+17.SCH
+18.STND/PR
+19.RSP
+20.REIMP
+21.PROV
+22.END USE
+.0492
+DE
+40000
+PCS
+294
+KGS
+S
+N
+N
+GNX200
+A. ITEM
+DETAILS
+23.PRODN
+24.CNTRL
+25.QUALFR
+26.CONTNT
+27.STMNT
+28.SUP DOCS
+29.ASSESS VALUE
+30. TOTAL DUTY
+N
+N
+Y
+N
+N
+N
+363214.42
+178410.9
+DUTY
+1. BCD
+2.ACD
+3.SWS
+4.SAD
+5.IGST
+6.G. CESS
+7.ADD
+8.CVD
+9.SG
+10.T. VALUE
+Notn No.
+001/2017
+001/2017
+Notn SNo.
+IV170
+42A
+Rate
+15
+10
+28
+0
+0
+Amount
+54482.2
+5448.2
+118480.5
+0
+0
+0
+DUTY
+B. ITEM
+Duty Fg
+0
+0
+DUTY
+1.SP EXD
+2.CHCESS
+3.TTA
+4.CESS
+5.CAIDC
+6.EAIDC
+7.CUS EDC
+8.CUS HEC
+9.NCD
+10.AGGR
+Notn No.
+011/2021
+Notn SNo.
+17
+Rate
+0
+0
+0
+Amount
+0
+0
+0
+DUTIES
+Duty Fg
+54482.16
+0
+C. OTHER
+ASSESSED
+GLOSSARY
+A: INVSNO - Invoice Sr. No., UPI - Unit Price Invoiced, C.Qty - Commercial Quantity, S.Qty - Standard Quantity, FS - Food Safety and Standards
+Authority of India, PQ - Plant Quarantine, DC - Central Drugs Standard Control Organisation, WC - WildLife Crime Control Bureau , AQ - Animal
+Quarantine and Certification Services, SCH - Scheme Code
+Page
+3 Of 6
+Verify using ICETRAK Mobile App (Google Play Store) for authentication & latest version details from ICEGATE Enquiry
+Port Code
+BE No
+BE Date
+BE Type
+INBOM4
+3433168
+11/05/2024
+H
+स्वच्छ
+भारत
+IEC/Br
+0388084383/10
+FIRST COPY
+एक कदम स्वच्छता की ओर
+GSTIN/TYPE
+27AAACG1994N1Z4/G
+INDIAN
+CUSTOMS
+CB CODE
+AAMFP7906QCH001
+TYPE
+INV
+ITEM
+CONT
+PORT: AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+Nos
+1
+1
+0
+BILL OF ENTRY FOR HOME CONSUMPTION
+PKG
+3
+G.WT (KGS)
+376.8
+BE0110520241209
+PART - IV - ADDITIONAL DETAILS
+A. SVB DETAILS
+1.INVSNO
+2.ITMSNO
+3.REF NO
+4. REF DT
+5. PRT CD
+6.LAB
+7.P/F
+8.LOAD DATE
+9.P/F
+B. PREVIOUS BES
+.INVSNO
+2.ITMSNO
+3. BE NO
+4. BE DATE
+5. PRT CD
+6.UNITPRICE
+7.CURRENCY CODE
+1
+1
+7414238
+18-AUG-23
+0
+C. RE-IMPORT AFTER EXPORT
+.INVSNO
+2.ITMSNO
+3.NOTN NO
+4.SLNO
+5.FRT
+6.INS
+7.DUTY
+8.SB NO
+9.SB DT
+10.PORTCD
+11.SINV
+12.SITEMN
+D. ITEM MANUFACTURER/PRODUCER/GROWER DETAILS
+.INVSNO
+2.ITMSNO
+3.TYPE
+4.MANUFACT CD
+5.SOURCE CY
+6. TRANS CY
+7.ADDRESS
+E. ACCESSORY STATUS
+1.INVSNO
+2.ITMSNO
+3.ACESSORY ITEM DETAILS
+F. LICENCE DETAILS
+.INVSNO
+2.ITMSNO
+3.LIC SLNO
+4.LIC NO
+5.LIC DATE 6.CODE
+7.PORT
+8.DEBIT VALUE
+9.QTY
+10.UQC
+11.DEBIT DUTY
+G. CERTIFICATE DETAILS
+H.HSS DETAILS
+1.CERTIFICATE NUMBER
+2.DATE
+3.TYPE
+1.PRC LEVEL
+2.IEC
+3.BRANCH SLNO
+I. SINGLE WINDOW DECLARATION
+1.INVSN
+2.ITMSNO
+3.INFO TYP
+4. QUALIFIER
+5.INFO CD
+6.INFO TEXT
+7.INFO MSR
+8.UQC
+1
+1
+CHR
+SQC
+294
+KGS
+J. SINGLE WINDOW DECLARATION - CONSTITUENTS
+1.INVSN
+2.ITMSNO
+3.C SNO
+4.NAME
+5.CODE
+6.PERCENTAGE
+7.YIELD PCT
+8.ING
+K. SINGLE WINDOW DECLARATION - CONTROL
+1.INVSN
+2.ITMSNO
+3.CONTROL TYPE
+4.LOCATION
+5.SRT DT
+6.END DT
+7.RES CD
+8.RES TEXT
+L. SUPPORTING DOCUMENTS
+1.INVSN
+2.ITMSNO
+3.TYP
+4.ICEGATE ID
+5.IRN
+6.DOC CODE7.ISSUE PLACE8.ISSUE DT
+9.EXP DT
+0
+0
+70500
+PROFICIENTLLP
+2024051100020052
+GERMANY
+11-MAY-24
+1
+0
+33100
+PROFICIENTLLP
+2024051100020053
+GERMANY
+11-MAY-24
+M. CONTAINER DETAILS
+1.CONTAINER NUMBER
+2. TRUCK NUMBER
+3.SEAL NUMBER
+4.FCL/LCL
+N. INVOICE DETAILS
+1. S NO
+2. INVOICE NO
+3. INVOICE AMOUNT
+4. CUR
+1
+509434
+1968
+EUR
+OTHER ADDITIONAL INFORMATION
+ASS
+GLOSSARY
+A: Ref No - SVB Reference Number, Ref Dt - SVB Reference Date; F : Code - Licence Scheme Code; G : PRC - Preceding; J : ING - Ingredient
+K: RES CD - Control Result Code, RES TXT - Control Result Text
+Page
+4 Of 6
+Verify using ICETRAK Mobile App (Google Play Store) for authentication & latest version details from ICEGATE Enquiry
+Port Code
+BE No
+BE Date
+BE Type
+INBOM4
+3433168
+11/05/2024
+H
+स्वच्छ
+भारत
+IEC/Br
+0388084383/10
+FIRST COPY
+एक कदम स्वच्छता की ओर
+GSTIN/TYPE
+27AAACG1994N1Z4/G
+INDIAN
+CUSTOMS
+CB CODE
+AAMFP7906QCH001
+TYPE
+INV
+ITEM
+CONT
+PORT: AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+Nos
+1
+1
+0
+BILL OF ENTRY FOR HOME CONSUMPTION
+PKG
+3
+G.WT (KGS)
+376.8
+BE0110520241209
+PART - V - OTHER COMPLIANCES
+A. EXAMINATION ORDER RMS
+Assessment and Examination has not been prescribed for this BE.
+A1.EXAMINATION ORDER
+B.EXAMINATION INSTRUCTIONS
+B1. PGA EXAMINATION INSTRUCTIONS
+Inv No
+Item No
+Agency Status
+C.COMPULSORY COMPLIANCE
+D. AC REMARKS
+E. EXAMINATION REPORT
+F.SUPERINTENDENT COMMENTS
+OOC No
+OOC Date
+CO
+COMPLIANCES
+ASSESSED
+Page
+5 Of 6
+Verify using ICETRAK Mobile App (Google Play Store) for authentication & latest version details from ICEGATE Enquiry
+Port Code
+BE No
+BE Date
+BE Type
+INBOM4
+3433168
+11/05/2024
+H
+स्वच्छ
+भारत
+IEC/Br
+0388084383/10
+FIRST COPY
+एक कदम स्वच्छता की ओर
+GSTIN/TYPE
+27AAACG1994N1Z4/G
+INDIAN
+CUSTOMS
+CB CODE
+AAMFP7906QCH001
+TYPE
+INV
+ITEM
+CONT
+PORT: AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+Nos
+1
+1
+0
+BILL OF ENTRY FOR HOME CONSUMPTION
+PKG
+3
+G.WT (KGS)
+376.8
+BE0110520241209
+PART - VI - DECLARATION
+Declaration for 0/0: I/We declare that the contents of the above mentioned invoice(s) and documents are true and correct in every respect.I/We
+have not received and do not know of any other documents or information showing a different description, quantity, price, value, of the said
+goods and that if at any time hereafter I/We discover any document / information showing different facts, I/We will immediately make the same
+known to the Commissioner of Customs.
+Declaration for 0/0: I/We declare that the contents of this Bill of Entry for goods imported against above mentioned Bill of Lading/ Airway Bill
+/Lorry Receipt/Railway Receipt numbers are in accordance with the above mentioned invoice(s) No(s)and other documents presented herewith.
+Declaration for 1/0: I/We declare that the price paid or payable by the importer is as per the details provided above, and any price paid or
+payable in addition to the above will be settled with the seller at the end of a defined period by means of debit note / credit note (post ¿ import
+price adjustment), which are as per the contract attached as a supporting document.
+Declaration for 1/0: I/We declare that there are no payments actually paid or payable for the imported goods by way of cost and services [in
+terms of Rules 10(1)(a)(i), Rule 10(1)(a)(ii), Rule 10 (1) (a) (iii) and Rule 10 (1) (b) of Customs Valuation Rules, 2007], Royalty / Licence Fee /
+subsequent resale or use of goods /other payment as a condition of sale [(Please see Rule 10 (1) (c), (d) & (e) of Customs Valuation Rules,
+2007] other than those declared in the invoice which are mentioned as miscellaneous charges in this Bill of Entry.
+Declaration for 1/0: I/We declare that all conditions or restrictions, if any, imposed by the seller of any third party on the disposition or use of the
+imported goods [as per proviso to Rule 3(2)) of the Customs Valuation Rules, 2007] are specified above.
+A.DECLARATION STATEMENT
+ASSESSED
+DATE
+PLACE
+AUTHORISED SIGNATORY
+CHA NAME: PROFICIENT CARGO SERVICES INDIA LLP
+SIGNATORY
+B. AUTHORIZED
+Page
+6 Of 6
+Verify using ICETRAK Mobile App (Google Play Store) for authentication & latest version details from ICEGATE Enquiry
